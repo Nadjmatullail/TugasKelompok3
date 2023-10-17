@@ -1,0 +1,53 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/05/04/18/21/coffee-6229385_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 900px;
+    margin: 20px auto;
+    background-color: blanchedalmond;
+    border: 5px dotted rgb(255, 255, 255);
+}
+
+h1 {
+    background-color: rgb(37, 20, 12);
+    color: beige;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(63, 37, 26);
+    color: beige;
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    text-align: justify;
+}
+
+#pengantar {
+    background-color: blanchedalmond;
+    padding: 50px;
+}
+
+.content1 {
+    background-color: rgb(182, 142, 95);
+}
+
+.content4 {
+    background-color: rgb(182, 142, 95);
+}
+
+.content6 {
+    background-color: rgb(182, 142, 95);
+}
+
+
+/* tulisan bold untuk fakta*/
+.tulisanbold {
+    font-weight: bold;
+}
